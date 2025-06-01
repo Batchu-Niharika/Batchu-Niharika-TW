@@ -9,5 +9,5 @@ August 2024 – February 2025
 - Ensured the SOP was aligned with company goals and updated regularly based on stakeholder feedback and operational changes.
 | Left     | Center   | Right    |
 |:---------|:--------:|---------:|
-| Content Writing, Team Management, Research and Exploration, Communication Skills  Trained on SAAS Documentation, HTML, DITA      | B        | C        |
+| A        | B        | C        |
 | D        | E        | F        |
