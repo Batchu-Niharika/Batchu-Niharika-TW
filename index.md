@@ -1,4 +1,4 @@
- # **Niharika Batchu**
+| # **Niharika Batchu**  |
  
 IT professional with over 5 years of experience in software technical writing. My experience has been gained working in the SAAS and Web applications. 
 ## **EXPERIENCE**
