@@ -1,4 +1,4 @@
-| # **Niharika Batchu**  |
+| # **Niharika Batchu**  
  
 IT professional with over 5 years of experience in software technical writing. My experience has been gained working in the SAAS and Web applications. 
 ## **EXPERIENCE**
@@ -23,4 +23,4 @@ October 2016 – November 2018
 - Create and update end-user documents such as User Guides, Admin Guides.  
 - Collaborated closely with engineers, developers, and product teams to gather technical information, ensuring accuracy and clarity in all published content.  
 - Developed visual aids such as diagrams, flowcharts, and architecture diagrams to enhance understanding of technical processes and system designs.  
-- Worked cross-functionally to refine user experience and content presentation, improving the accessibility and usability of support documentation. 
+- Worked cross-functionally to refine user experience and content presentation, improving the accessibility and usability of support documentation. |
