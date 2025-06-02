@@ -31,25 +31,30 @@ October 2016 – November 2018
 - Collaborated closely with engineers, developers, and product teams to gather technical information, ensuring accuracy and clarity in all published content.  
 - Developed visual aids such as diagrams, flowcharts, and architecture diagrams to enhance understanding of technical processes and system designs.  
 - Worked cross-functionally to refine user experience and content presentation, improving the accessibility and usability of support documentation.
+
 ## **SKILLS**   
 Content Writing, Team 
 Management, Research and 
 Exploration, Communication 
 Skills  
 Trained on SAAS 
-Documentation, HTML, DITA  
+Documentation, HTML, DITA 
+
 ## **SOFTWARES**  
 Writing Tools:  
 Robohelp, MS-Word, GitHub 
 PowerPoint.  
 Illustration Tools: Adobe 
 Photoshop, Illustrator and 
-Snagit  
+Snagit 
+
 ## **PROCESS**
 DDLC, SDLC 
-Agile, JIRA 
+Agile, JIRA
+
 ## **LANGUAGES** 
-English, Telugu, Hindi 
+English, Telugu, Hindi
+
 ## **EDUCATION**
 - B. Tech (ECE) 2013-16, Bhoj 
 reddy Engineering College 
