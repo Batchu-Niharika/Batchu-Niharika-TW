@@ -24,6 +24,7 @@ January 2020 – October 2021
 - Translated complex technical concepts into clear, concise, and userfriendly documentation tailored for both technical and non-technical audiences.
 - Developed content for secure, user-friendly payment flows, including setup, checkout, and error recovery, resulting in improved user confidence and reduced drop-off rates.  
 - Partnered with product and research teams to test and validate content, improving message comprehension and conversion.
+
 ### **Genpact, Hyderabad** — *Associate Technical Writer*  
 October 2016 – November 2018  
 - Create and update end-user documents such as User Guides, Admin Guides.  
