@@ -12,11 +12,13 @@ August 2024 – February 2025
 - Collaborated with cross-functional teams to gather requirements, map workflows, and ensure compliance with industry regulations.  
 - Improved operational efficiency by standardizing key transportation  processes and reducing ambiguity for new team members.  
 - Ensured the SOP was aligned with company goals and updated regularly based on stakeholder feedback and operational changes.
+
 ### **Wipro Limited, Hyderabad** — *Technical Writer*  
 January 2022 – November 2022  
 - Created high-quality digital manuals and FAQs in compliance with industry standards.  
 - Conducted detailed research for illustrations and iterative edits to ensure user-friendly content delivery.  
 - Identified and implemented the appropriate tools based on project scope and document type,
+
 ### **Amazon Development Centre, Hyderabad** — *Technical Writer*
 January 2020 – October 2021  
 - Translated complex technical concepts into clear, concise, and userfriendly documentation tailored for both technical and non-technical audiences.
